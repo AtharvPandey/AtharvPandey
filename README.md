@@ -21,6 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvpandey&show_icons=true&locale=en" alt="atharvpandey" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvPandey&theme=github-dark&border_radius=5&card_width=800&card_height=200" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AtharvPandey&theme=github-light&border_radius=5&card_width=600&card_height=200" alt="GitHub Streak" /></a>
 
 
