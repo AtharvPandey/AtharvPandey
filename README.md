@@ -6,7 +6,6 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-pandey)
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:one8atharv@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atharvpandey&label=Profile%20Views&color=845ef7&style=flat-square)
