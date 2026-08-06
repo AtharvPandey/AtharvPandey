@@ -4,9 +4,9 @@
 
 ### Software Product Engineer | Building on AWS, React & Python
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atharvpandey.github.io/Portfolio)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-pandey)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/18atharv_)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:one8atharv@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=atharvpandey&label=Profile%20Views&color=845ef7&style=flat-square)
@@ -70,8 +70,18 @@ Built responsive React components, implemented CRUD via REST APIs, tested endpoi
 - ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services
 - 📄 Co-authored *An Ensemble Learning Based Career Prediction Model*, presented at the 5th International Conference on Deep Learning, AI and Robotics, published by **Springer**
 - 🎓 **Subject Expert (Computer Science)** at Chegg *(Nov 2023 – Present)*
-- 🎤 **Committee Head**, Post Graduate Club, NIT Kurukshetra *(Aug 2023 – May 2024)*
-- 🐱 Member, CodeCats Society, MCA, NIT Kurukshetra *(Feb 2023 – May 2024)*
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=atharvpandey&hide_border=true&background=FFFFFF&stroke=845ef7&ring=FF6B6B&fire=FF9900&currStreakLabel=845ef7" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvpandey&bg_color=ffffff&color=845ef7&line=FF6B6B&point=FF9900&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+
+</div>
 
 <br>
 
